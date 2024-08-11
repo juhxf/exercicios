@@ -18,7 +18,7 @@ Desenvolver a habilidade de usar conceitos básicos de programação para constr
 
 ### Passo a passo dos Comandos:
 
-Solicite ao usuário seu nome e idade:
+• Solicite ao usuário seu nome e idade:
 
 ```bash
 # Recebendo informações do usuário:
@@ -26,13 +26,13 @@ nome = input("Digite seu nome: ")
 idade = int(input("Digite sua idade: "))
 ```
 
-Cálculo de quantos anos faltam para o usuário ter 100 anos:
+• Cálcule quantos anos faltam para o usuário ter 100 anos:
 ```bash
 # Calculo da idade:
 diferenca = 100 - idade
 ```
 
-Saudação personalizada incluindo o nome do usuário.
+• Criando uma saudação personalizada incluindo informações do usuário.
 ```bash
 # Exibindo mensagem:
 print("Olá {}! Faltam {} anos para você completar 100 anos.".format(nome,diferenca))
