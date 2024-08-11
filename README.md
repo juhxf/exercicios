@@ -16,7 +16,11 @@ Desenvolver a habilidade de usar conceitos básicos de programação para constr
 
 ##  Como rodar esse projeto
 
-### Passo a passo dos Comandos:
+• Utilize o PyCharm ou Vscode;
+
+• Configure conforme suas necessidades.
+
+### Passo a passo dos comandos:
 
 • Solicite ao usuário seu nome e idade:
 
