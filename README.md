@@ -14,7 +14,7 @@ Desenvolver a habilidade de usar conceitos básicos de programação para constr
 2. O cálculo deve ser feito corretamente e o resultado deve ser apresentado de maneira clara.
 3. O código deve ser bem documentado, com comentários explicativos sobre cada seção importante.
 
-##  Como rodar esse projeto
+##  Como rodar esse programa 
 
 • Utilize o PyCharm ou Vscode;
 
