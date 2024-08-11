@@ -40,7 +40,7 @@ print("Olá {}! Faltam {} anos para você completar 100 anos.".format(nome,difer
 
 ## Sobre mim:
 ### Olá, me chamo Júlia de Oliveira!
-Sou estudante de Sistemas de Infromação na Unifoa e busco atualizar constantemente meus conhecimentos na área da tecnologia.
+Sou estudante de Sistemas de Infromação na UniFOA e busco atualizar constantemente meus conhecimentos na área da tecnologia.
 
 ### Contato:
 <div> 
